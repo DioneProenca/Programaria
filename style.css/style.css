@@ -3,7 +3,58 @@ body{
 	font-family:Open Sans,sans-serif;
 	background-color:#8A71C9;
 	color:#ffffff;
+	margin:0;
 }
+
 h2{
 	color:#2a0074;
+	font-size:40px
+}
+
+.titulo-verde{
+	color:#04ff9f;
+}
+
+.titulo-vermelho{
+	color:#ff9e9e;
+}
+
+.titulo-amarelo{
+	color:#ffe36d;
+}
+
+section{
+	max-width:60%;
+	margin:0 auto;
+}
+
+h1{
+	font-size:60px;
+	fot-weigth:300;
+}
+
+h3{
+	font-size:22px;
+	font-style:italic;
+}
+
+p{
+	line-heigth:1,5;
+	font-size:20px;
+}
+
+img{
+	width:100%;
+}
+
+ul{
+	list-style-type:none;
+	line-heigth:2;
+	padding-left:0;
+}
+
+a{
+	text-decoration:none;
+	color:#99ffff;
+	font-weigth:700;
 }
