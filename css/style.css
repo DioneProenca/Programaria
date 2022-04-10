@@ -24,8 +24,11 @@ h2{
 }
 
 section{
-	max-width:60%;
+	width:60%;
 	margin:0 auto;
+}
+section section{
+	width:100%;
 }
 
 h1{
@@ -77,6 +80,5 @@ a{
 		line-height:2.5;
 		margin: 0 50px;
 }
-
 
 
